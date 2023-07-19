@@ -6,6 +6,7 @@ For students in my Digital Solutions class, you will find the completed Work Ret
 — Im writing a book :P —
 
 Semester 1 Grades:
+
 Maths Methods 29/35 82% A-
 
 Digital Solutions 48/50 96% A+
