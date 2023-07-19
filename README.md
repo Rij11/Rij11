@@ -7,7 +7,11 @@ For students in my Digital Solutions class, you will find the completed Work Ret
 
 Semester 1 Grades:
 Maths Methods 29/35 82% A-
+
 Digital Solutions 48/50 96% A+
+
 Chemistry 22/30 74% B 
+
 Accounting 41/50 82% B
+
 English 32/50 64% B- 
